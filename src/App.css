@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  color: white;
+}
+
+.jug-input {
+  margin-bottom: 20px;
+}
+
+.jug-input label {
+  display: block;
+  margin: 10px 0;
+}
+
+.jug-input input {
+  padding: 5px;
+  margin: 5px;
+}
+
+.solution-display {
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.solution-display ul {
+  list-style: none;
+  padding: 0;
+}
+
+.solution-display li {
+  padding: 5px 0;
+}
